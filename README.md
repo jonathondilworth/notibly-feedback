@@ -1,6 +1,6 @@
 # Web App Feedback Repository
 
-This repository serves as a centralized location where I will document my feedback for the (notibly.app)[https://notibly.app/] alpha release. This repo will track suggestions, issues, and general thoughts about the app’s development.
+This repository serves as a centralized location where I will document my feedback for the [notibly.app](https://notibly.app/) alpha release. This repo will track suggestions, issues, and general thoughts about the app’s development.
 
 ## Index:
 
