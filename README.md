@@ -5,6 +5,7 @@ This repository serves as a centralized location where I will document my feedba
 ## Index:
 
 * **Feature Requests**:
+    * [27-10-24-documents](./feature-requests/) - see: open source feature request services & additional notes
 	* [05-09-24.md](./feature-requests/05-09-24.md)
 	* [20-09-24.md](./feature-requests/20-09-24.md)
 
